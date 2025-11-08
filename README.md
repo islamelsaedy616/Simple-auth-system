@@ -31,9 +31,3 @@ It features **real-time input validation**, **error modals**, and **dynamic sess
 - **Bootstrap 5**
 - **Vanilla JavaScript**
 - **LocalStorage API**
-
----
-
-## 🌐 Live Demo
-
-👉 [**View Live Version**](https://yourusername.github.io/signup-login-webapp)
